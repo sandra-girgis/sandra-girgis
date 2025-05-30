@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/sandra-girgis)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XNjY-zOSXoZehUxd1IcJw_dMVdfoONEX/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XNjY-zOSXoZehUxd1IcJw_dMVdfoONEX/view?usp=drive_link){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
