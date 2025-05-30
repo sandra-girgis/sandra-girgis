@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sandra-girgis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra-girgis" height="30" width="40" /></a>
-<a href="https://fb.com/sandra.girgis.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandra.girgis.54" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sandra.girgis.503878/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandra.girgis.54" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
